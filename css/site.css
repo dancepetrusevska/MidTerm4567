@@ -1,0 +1,15 @@
+.header{
+    top: 0;
+}
+.alert.green {
+    color: green;
+}
+
+.alert.red {
+    color: red;
+}
+
+.fortiny {
+    width: 60%;
+    height: 40px !important;
+}
